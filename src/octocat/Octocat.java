@@ -17,6 +17,7 @@ public class Octocat {
     public static void main(String[] args) {
         // TODO code application logic here
             System.out.println("Yo world");
+            System.out.println("Halp");
     }
     
 }
