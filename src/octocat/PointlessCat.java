@@ -5,18 +5,11 @@
  */
 package octocat;
 
+
 /**
  *
  * @author FSEVERI\bergamasco3075
  */
-public class Octocat {
+public class PointlessCat {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-            System.out.println("Yo world");
-    }
-    
 }
